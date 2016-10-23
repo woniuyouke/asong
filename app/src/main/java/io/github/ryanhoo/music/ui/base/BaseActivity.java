@@ -25,6 +25,11 @@ import uk.co.chrisjenx.calligraphy.CalligraphyContextWrapper;
  * Time: 8:12 PM
  * Desc: BaseActivity
  */
+
+
+
+
+
 public abstract class BaseActivity extends AppCompatActivity {
 
     private CompositeSubscription mSubscriptions;
